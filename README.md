@@ -51,7 +51,6 @@ A curated list of amazingly awesome Free and Open-Source sysadmin resources.
 - [Communities / Forums](#communities--forums)
 - [Repositories](#repositories)
 - [Websites](#websites)
-- [License](#license)
 
 --------------------
 
